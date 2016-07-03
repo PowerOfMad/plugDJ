@@ -2,7 +2,7 @@
   "room": "CzSkENG PlugDj",
   "author": "Repiboy",
   "icon": null,
-  "css": "",
+  "css": "https://rawgit.com/Repiboy/plugDJ/master/PlugDJ.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot": true,
