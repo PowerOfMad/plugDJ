@@ -1075,8 +1075,8 @@
 
 /* ᶠᶸᶜᵏᵧₒᵤ™Reemiツ™ᴼᴿᴵᴳᴵᴻᴬᴸ */
 
-.id-15697611 .meta .username:after {
-		content: "\A" url('https://vgy.me/98k8pD.png') "CSS creator";
+.id-3680307 .meta .username:after {
+		content: "\A" url('https://vgy.me/98k8pD.png') "Host";
 		white-space: pre;
 		font-size: 10pt;
 		display: block;
@@ -1085,7 +1085,7 @@
 		font-weight: bold;
 		cursor: text;
 }
-[data-cid^="15697611-"] .msg .from .un {
+[data-cid^="3680307-"] .msg .from .un {
 		position: relative;
 		left: -1px;
 		padding-left: 18px;
@@ -1094,7 +1094,7 @@
 		background-position: -1px center;
 		background-size: 16px auto;
 }
-#chat [data-cid^="15697611-"] .bdg {
+#chat [data-cid^="3680307-"] .bdg {
 		background: url('https://vgy.me/AWNM7U.gif') !important;
 		background-position: 0px 0px;
 }
