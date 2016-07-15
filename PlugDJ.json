@@ -2,7 +2,7 @@
   "room":   "|LoL|»»Music FOR GAMERS««|CSGO",
   "author": "Repiboy",
   "icon":   "",
-  "css":    "",
+  "css":    "https://rawgit.com/Repiboy/plugDJ/master/PlugDJ.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot":    true,
